@@ -3,6 +3,8 @@
 
  ## use
 
+replace "WebHookHere" in main.rs with your webhook
+
  1. run CMD and go to the directory of the downloaded package.
  2. in CMD write "cargo build"
  3. now to use the program just write "cargo run"
